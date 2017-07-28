@@ -16,7 +16,7 @@ using System.Threading.Tasks;
 
 namespace Abstract_Planets
 {
-    public class TerrestrialPlanet : Planet, IHasMoons
+    public class TerrestrialPlanet : Planet, IHasMoons, IHabitabe
     {
         // Private Instance Variables
 
