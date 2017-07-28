@@ -18,7 +18,7 @@ namespace Abstract_Planets
     /// <summary>
     /// This is the Planet class!
     /// </summary>
-    abstract class Planet
+    public abstract class Planet
     {
         // Private Instance Variables
 
