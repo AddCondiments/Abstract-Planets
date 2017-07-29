@@ -129,7 +129,7 @@ namespace Abstract_Planets
 
         public override string ToString()
         {
-            return string.Format("Name: {0}\nDiameter: {1}\nMass: {2}\n", Name, ,Diameter, Mass);
+            return string.Format("Name: {0}\nDiameter: {1} km\nMass: {2}kg\n", Name, Diameter, Mass);
         }
     }
 }
